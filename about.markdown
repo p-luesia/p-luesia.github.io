@@ -9,6 +9,7 @@ permalink: /about_me/
 My name is Pablo Luesia Lahoz. I was born in Zaragoza (Spain), and I studied Computer Engineering Degree and Master at the [Universidad de Zaragoza](https://www.unizar.es/). Currently I work as researcher in the Graphics & Imaging Lab of Universidad de Zaragoza: [G&Ilab](https://graphics.unizar.es/)
 
 You can contact me by email: <pluesia@unizar.es>
+If you are interested in my code, hit my [GitHub repository](https://github.com/p-luesia)
 
 <!-- [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
