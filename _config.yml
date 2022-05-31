@@ -33,6 +33,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+cover_bg_color: rgb(40, 73, 77)
+cover_color: rgb(70, 50, 199)
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
