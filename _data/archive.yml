@@ -1,6 +1,6 @@
-- type: dates
-  title: Dates
-  url: /dates/
+- type: announcements
+  title: Announcements
+  url: /announcements/
 #- type: categories
 #  title: Categories
 #  url: /categories/

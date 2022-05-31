@@ -1,4 +1,6 @@
 ---
 layout: archive-taxonomies
-type:   announcement
+permalink: /announcements/
+title: Announcements
+type: announcements
 ---
