@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-cover_bg_color: rgb(200, 215, 215)
+cover_bg_color: rgb(165, 195, 223)
 cover_color: rgb(70, 50, 199)
 
 # Exclude from processing.
