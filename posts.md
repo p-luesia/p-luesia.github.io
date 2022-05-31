@@ -1,4 +1,6 @@
 ---
 layout: archive-taxonomies
-type:   post
+permalink: /posts/
+title: Posts
+type: posts
 ---

@@ -1,4 +1,6 @@
 ---
 layout: archive-taxonomies
-type:   publication
+permalink: /publications/
+title: Publications
+type: publications
 ---

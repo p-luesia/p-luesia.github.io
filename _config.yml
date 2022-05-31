@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Pablo Luesia-Lahoz
+description: Personal and profesional WebPage
+url: https://p-luesia.github.io
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -28,15 +28,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
+# twitter:
+#   username: vszhub
+#   card: summary
+# logo: logo.png
 social:
-  name: Songzi Vong
+  name: Pablo Luesia-Lahoz
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/p-luesia
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Pablo Luesia-Lahoz
+  url: https://github.com/p-luesia/
+  email: pluesia@unizar.es
