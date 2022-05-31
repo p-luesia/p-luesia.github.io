@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive-dates
 title:  "Welcome to my page!"
 date:   2022-05-31 14:12:00 +0200
 categories: commom
