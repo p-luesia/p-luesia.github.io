@@ -1,8 +1,8 @@
 ---
-layout: announcements
+layout: post
 title:  "Welcome to my page!"
 date:   2022-05-31 14:12:00 +0200
-categories: commom
+categories: announcement
 ---
 
 Welcome to my web page!!!

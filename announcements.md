@@ -1,6 +1,6 @@
 ---
-layout: archive-taxonomies
-permalink: /announcements/
+layout: archive-announcements
+# permalink: /announcements/
 title: Announcements
 type: announcements
 ---

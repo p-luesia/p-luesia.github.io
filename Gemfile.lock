@@ -97,6 +97,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.1)
   jekyll-compose
+  jekyll-paginate
   not-pure-poole!
   rake (~> 12.0)
   webrick (~> 1.7)

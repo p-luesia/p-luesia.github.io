@@ -1,6 +1,6 @@
 {%- if site.data.archive -%}
   {%- for item in site.data.archive -%}
-    {%- if item.type == "tags" -%}
+    {%- if item.type == "topics" -%}
       {% assign tags_archive_page = item.url %}
       {% break %}
     {%- endif -%}
