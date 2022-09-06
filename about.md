@@ -6,7 +6,7 @@ permalink: /about_me/
 
 ![Pablo Luesia Lahoz](./avatar.jpg)
 
-My name is Pablo Luesia Lahoz. I was born in Zaragoza (Spain), and I studied Computer Engineering Degree and Master at the [Universidad de Zaragoza](https://www.unizar.es/). Currently I work as researcher in the Graphics & Imaging Lab of Universidad de Zaragoza ([G&Ilab](https://graphics.unizar.es/)), under the supervision of [prof. Adolfo Muñoz](http://webdiis.unizar.es/~amunoz/es/) and [prof. Diego Gutierrez](http://giga.cps.unizar.es/~diegog/).
+My name is Pablo Luesia Lahoz. I was born in Zaragoza (Spain), and I studied Computer Engineering Degree and Master at the [Universidad de Zaragoza](https://www.unizar.es/). Currently I am a PhD student in the Graphics & Imaging Lab of Universidad de Zaragoza ([G&Ilab](https://graphics.unizar.es/)), under the supervision of [prof. Adolfo Muñoz](http://webdiis.unizar.es/~amunoz/es/) and [prof. Diego Gutierrez](http://giga.cps.unizar.es/~diegog/).
 
 You can contact me by email: <pluesia@unizar.es>
 
