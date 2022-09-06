@@ -10,7 +10,7 @@ My name is Pablo Luesia Lahoz. I was born in Zaragoza (Spain), and I studied Com
 
 You can contact me by email: <pluesia@unizar.es>
 If you are interested in my code, hit my [GitHub repository](https://github.com/p-luesia)
-You can download my CV from [here](...)
+You can download my CV from [here](./documents/CV_English.pdf) (in [Spanish](./documents/CV_Spanish.pdf))
 
 <!-- [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
