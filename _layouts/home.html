@@ -29,7 +29,7 @@ layout: default
       {%- endif -%}
     </div>
 
-    <p>{{ post.content | truncatewords: 25}}</p>
+    <p>{{ post.content | truncatewords: 40}}</p>
   </section>
   {% endfor %}
   {%- if jekyll.environment == "production" and site.disqus -%}
