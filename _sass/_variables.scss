@@ -32,7 +32,8 @@
   --body-color: var(--gray-700);
   --body-bg: #fff;
 
-  --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
+  // --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
+  --text-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
@@ -53,10 +54,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-color: var(--gray-300);
-    --body-bg: var(--gray-800);
+    // --body-color: var(--gray-300);
+    --body-color: rgb(65, 65, 65);
+    // --body-bg: var(--gray-800);
+    --body-bg: rgb(245, 233, 217);
 
-    --heading-color: rgb(204, 204, 204);
+    --heading-color: rgb(107, 107, 107);
 
     --link-color: var(--blue-300);
     --link-hover-color: var(--blue-400);
