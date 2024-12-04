@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Pablo Luesia-Lahoz website"
+title = "Pablo's website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -16,7 +16,7 @@ title = "Pablo Luesia-Lahoz website"
   name = "Pablo Luesia-Lahoz"
   image = "img/avatar.jpg"
   headline = "Ph.D. candidate"
-  bio = "I am a Ph.D. candidate at Universidad de Zaragoza (Spain), working at the Graphics and Imaging lab. My supervisors are prof. Adolfo Muñoz and prof. Diego Gutierrez, and together we work on computational imaging, specifically, Non-Line-of-Sight (NLOS) imaging, transient imaging and computer generated graphics. I have a master's and bachelor degrees on computer engineering in Universidad de Zaragoza, and I have also worked with prof. Andreas Velten at University of Wisconsin-Madison on NLOS imaging."
+  bio = "Ph.D. candidate at Universidad de Zaragoza working at the Graphics and Imaging lab about computational imaging, specifically Non-Line-of-Sight imaging and transient imaging; and computer generated graphics"
   links = [
     { email = "mailto:pluesia@unizar.es" },
     { link = "https://p-luesia.github.io" },

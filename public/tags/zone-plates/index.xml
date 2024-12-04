@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zone Plates on Pablo Luesia-Lahoz website</title>
+    <title>Zone Plates on Pablo&#39;s website</title>
     <link>http://localhost:1313/tags/zone-plates/</link>
-    <description>Recent content in Zone Plates on Pablo Luesia-Lahoz website</description>
+    <description>Recent content in Zone Plates on Pablo&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 May 2023 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/zone-plates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zone Plate Virtual Lenses for Memory-Constrained NLOS Imaging</title>
-      <link>http://localhost:1313/publications/2023-05-05-zone-plate-virtual-lenses-for-memory-constrained-nlos-imaging/</link>
+      <link>http://localhost:1313/publications/zone_plates_for_nlos/</link>
       <pubDate>Thu, 04 May 2023 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/publications/2023-05-05-zone-plate-virtual-lenses-for-memory-constrained-nlos-imaging/</guid>
+      <guid>http://localhost:1313/publications/zone_plates_for_nlos/</guid>
       <description></description>
     </item>
   </channel>
