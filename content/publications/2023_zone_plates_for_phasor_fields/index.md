@@ -1,10 +1,11 @@
 ---
-layout: post
+# layout: post
 title:  "Zone Plate Virtual Lenses for Memory-Constrained NLOS Imaging"
 date:   2023-05-04 12:00:00 +0200
 categories: publication
 publication_type: conference
 tags: [computational imaging, nlos, phasor fields, zone plates]
+authors: "Pablo Luesia-Lahoz, Diego Gutierrez, and Adolfo Muñoz"
 ---
 
 Pablo Luesia-Lahoz, Diego Gutierrez, and Adolfo Muñoz

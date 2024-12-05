@@ -3,13 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>http://localhost:1313/publications/2024_cohesive_framework_for_non-line-of-sight_imaging_based_on_dirac_notation/</loc>
+            <lastmod>2024-03-11T12:00:00+02:00</lastmod>
+          </url>
+    
+  
+    
   
     
       <url>
             <loc>http://localhost:1313/</loc>
+            <lastmod>2024-03-11T12:00:00+02:00</lastmod>
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/publications/</loc>
+            <lastmod>2024-03-11T12:00:00+02:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/publications/2023_zone_plates_for_phasor_fields/</loc>
+            <lastmod>2023-05-04T12:00:00+02:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/publications/2022-nlos-presence-scattering-media/</loc>
+            <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/2022-05-31-welcome-to-my-page/</loc>
+            <lastmod>2022-05-31T14:12:00+02:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/about/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/dissemination/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/superv/</loc>
+          </url>
     
   
 </urlset>

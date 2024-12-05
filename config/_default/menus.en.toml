@@ -10,20 +10,40 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+# [[main]]
+#   name = "Blog"
+#   pageRef = "posts"
+#   weight = 10
+
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
+
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
+
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Publications"
+  pageRef = "publications"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Dissemination"
+  pageRef = "dissemination"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Supervision/teaching"
+  pageRef = "superv"
   weight = 30
+
+[[main]]
+  name = "About me"
+  pageRef = "about"
+  weight = 40
 
 [[main]]
   identifier = "search"

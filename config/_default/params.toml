@@ -33,24 +33,24 @@ fingerprintAlgorithm = "sha256"
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
   recentLimit = 5
 
 
 [article]
-  showDate = false
+  showDate = true
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
+  showReadingTime = false
+  showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   showComments = false
@@ -58,10 +58,10 @@ fingerprintAlgorithm = "sha256"
 
 [list]
   showBreadcrumbs = false
-  showSummary = false
-  showTableOfContents = false
+  showSummary = true
+  showTableOfContents = true
   showTaxonomies = false
-  groupByYear = true
+  groupByYear = false
   paginationWidth = 1
 
 [sitemap]
