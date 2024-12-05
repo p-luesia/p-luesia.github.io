@@ -40,10 +40,10 @@
   pageRef = "superv"
   weight = 30
 
-[[main]]
-  name = "About me"
-  pageRef = "about"
-  weight = 40
+# [[main]]
+#   name = "About me"
+#   pageRef = "about"
+#   weight = 40
 
 [[main]]
   identifier = "search"

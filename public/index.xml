@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on Pablo&#39;s website</title>
+    <title>Pablo&#39;s website</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in home on Pablo&#39;s website</description>
+    <description>Recent content on Pablo&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2024 12:00:00 +0200</lastBuildDate>
@@ -30,11 +30,11 @@
       <description></description>
     </item>
     <item>
-      <title>Welcome to my page!</title>
-      <link>http://localhost:1313/2022-05-31-welcome-to-my-page/</link>
-      <pubDate>Tue, 31 May 2022 14:12:00 +0200</pubDate>
-      <guid>http://localhost:1313/2022-05-31-welcome-to-my-page/</guid>
-      <description></description>
+      <title>Bachelor&#39;s thesis</title>
+      <link>http://localhost:1313/bachelorthesis/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      <guid>http://localhost:1313/bachelorthesis/</guid>
+      <description>Lo de orbslam</description>
     </item>
     <item>
       <title>About</title>
