@@ -4,25 +4,14 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>https://p-luesia.github.io/</loc>
             <lastmod>2024-03-11T12:00:00+02:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/publications/2024_cohesive_framework_for_non-line-of-sight_imaging_based_on_dirac_notation/</loc>
-            <lastmod>2024-03-11T12:00:00+02:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/publications/</loc>
+            <loc>https://p-luesia.github.io/publications/2024_cohesive_framework_for_non-line-of-sight_imaging_based_on_dirac_notation/</loc>
             <lastmod>2024-03-11T12:00:00+02:00</lastmod>
           </url>
     
@@ -32,12 +21,44 @@
     
   
     
+      <url>
+            <loc>https://p-luesia.github.io/publications/</loc>
+            <lastmod>2024-03-11T12:00:00+02:00</lastmod>
+          </url>
+    
   
     
   
     
       <url>
-            <loc>http://localhost:1313/publications/2023_zone_plates_for_phasor_fields/</loc>
+            <loc>https://p-luesia.github.io/dissemination/</loc>
+            <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://p-luesia.github.io/dissemination/european_research_night_2023/</loc>
+            <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://p-luesia.github.io/dissemination/jovenes_investigadores_xii/</loc>
+            <lastmod>2023-07-15T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://p-luesia.github.io/publications/2023_zone_plates_for_phasor_fields/</loc>
             <lastmod>2023-05-04T12:00:00+02:00</lastmod>
           </url>
     
@@ -46,21 +67,21 @@
   
     
       <url>
-            <loc>http://localhost:1313/dissemination/acm_assistance_2022/</loc>
+            <loc>https://p-luesia.github.io/dissemination/european_research_night_2022/</loc>
+            <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://p-luesia.github.io/dissemination/acm_assistance_2022/</loc>
             <lastmod>2022-08-22T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/dissemination/</loc>
-            <lastmod>2022-08-22T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/publications/2022-nlos-presence-scattering-media/</loc>
+            <loc>https://p-luesia.github.io/publications/2022-nlos-presence-scattering-media/</loc>
             <lastmod>2022-07-25T12:00:00+02:00</lastmod>
           </url>
     
@@ -69,26 +90,20 @@
   
     
       <url>
-            <loc>http://localhost:1313/bachelorthesis/</loc>
+            <loc>https://p-luesia.github.io/bachelorthesis/</loc>
             <lastmod>1970-01-01T01:33:38+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>https://p-luesia.github.io/about/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/dissemination/european_research_night_2022/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/superv/</loc>
+            <loc>https://p-luesia.github.io/superv/</loc>
           </url>
     
   
