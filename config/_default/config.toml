@@ -6,6 +6,8 @@ baseURL = "https://p-luesia.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
+enableInlineShortcodes = true
+
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0

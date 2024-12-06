@@ -40,6 +40,11 @@
   pageRef = "superv"
   weight = 30
 
+[[main]]
+  name = "CV"
+  url = "docs/Curriculum_Vitae_EN.pdf"
+  weight = 40
+
 # [[main]]
 #   name = "About me"
 #   pageRef = "about"
