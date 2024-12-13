@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phasor Fields on Pablo&#39;s website</title>
-    <link>https://p-luesia.github.io/tags/phasor-fields/</link>
+    <link>http://localhost:1313/tags/phasor-fields/</link>
     <description>Recent content in Phasor Fields on Pablo&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 May 2023 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://p-luesia.github.io/tags/phasor-fields/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/phasor-fields/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zone Plate Virtual Lenses for Memory-Constrained NLOS Imaging</title>
-      <link>https://p-luesia.github.io/publications/2023_zone_plates_for_phasor_fields/</link>
+      <link>http://localhost:1313/publications/2023_zone_plates_for_phasor_fields/</link>
       <pubDate>Thu, 04 May 2023 12:00:00 +0200</pubDate>
-      <guid>https://p-luesia.github.io/publications/2023_zone_plates_for_phasor_fields/</guid>
+      <guid>http://localhost:1313/publications/2023_zone_plates_for_phasor_fields/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-line-of-sight imaging in the presence of scattering media using Phasor Fields</title>
-      <link>https://p-luesia.github.io/publications/2022-nlos-presence-scattering-media/</link>
+      <link>http://localhost:1313/publications/2022-nlos-presence-scattering-media/</link>
       <pubDate>Mon, 25 Jul 2022 12:00:00 +0200</pubDate>
-      <guid>https://p-luesia.github.io/publications/2022-nlos-presence-scattering-media/</guid>
+      <guid>http://localhost:1313/publications/2022-nlos-presence-scattering-media/</guid>
       <description></description>
     </item>
   </channel>
