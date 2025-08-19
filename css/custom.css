@@ -1,0 +1,7 @@
+.thumbnail-placeholder {
+  width: 160px;     /* match your thumbnail size */
+  height: 120px;
+  background-color: transparent;
+  border: 1px solid transparent;
+  display: inline-block; /* makes it behave like an image */
+}
