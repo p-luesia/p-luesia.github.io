@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stereo on Pablo&#39;s website</title>
+    <link>http://localhost:1313/tags/stereo/</link>
+    <description>Recent content in Stereo on Pablo&#39;s website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jan 2026 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stereo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stereo Non-Line-of-Sight Imaging</title>
+      <link>http://localhost:1313/publications/2026-stereo-nlos/</link>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publications/2026-stereo-nlos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

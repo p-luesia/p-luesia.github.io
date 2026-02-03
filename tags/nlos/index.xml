@@ -6,8 +6,15 @@
     <description>Recent content in Nlos on Pablo&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jul 2025 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/nlos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stereo Non-Line-of-Sight Imaging</title>
+      <link>http://localhost:1313/publications/2026-stereo-nlos/</link>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/publications/2026-stereo-nlos/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Zero-Phase Phasor Fields for Non-Line-of-Sight Imaging</title>
       <link>http://localhost:1313/publications/2025-zero-phase-phasor-fields-for-nlos/</link>
