@@ -5,12 +5,8 @@
     
       <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2026-01-29T12:00:00+02:00</lastmod>
+            <lastmod>2026-07-06T12:00:00+02:00</lastmod>
           </url>
-    
-  
-    
-  
     
   
     
@@ -19,9 +15,38 @@
   
     
       <url>
-            <loc>http://localhost:1313/publications/</loc>
-            <lastmod>2026-01-29T12:00:00+02:00</lastmod>
+            <loc>http://localhost:1313/publications/2026-thesis_dissertation/</loc>
+            <lastmod>2026-07-06T12:00:00+02:00</lastmod>
           </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/publications/</loc>
+            <lastmod>2026-07-06T12:00:00+02:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/dissemination/</loc>
+            <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/dissemination/thesis_defense/</loc>
+            <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+          </url>
+    
+  
     
   
     
@@ -30,15 +55,6 @@
       <url>
             <loc>http://localhost:1313/publications/2026-stereo-nlos/</loc>
             <lastmod>2026-01-29T12:00:00+02:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/dissemination/</loc>
-            <lastmod>2025-09-26T00:00:00+00:00</lastmod>
           </url>
     
   
